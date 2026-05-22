@@ -1,0 +1,8 @@
+aiogram
+numpy
+joblib
+catboost
+vk_api
+requests
+pandas
+scikit-learn

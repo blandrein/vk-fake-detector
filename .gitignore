@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+
+# CatBoost
+catboost_info/
+
+# Datasets
+*.csv
+
+# Large files
+*.zip
+
+# System
+.DS_Store
+Thumbs.db
